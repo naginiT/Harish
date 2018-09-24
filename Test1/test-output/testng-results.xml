@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50838" started-at="2018-09-20T08:29:40Z" finished-at="2018-09-20T08:30:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37719" started-at="2018-09-20T08:29:40Z" finished-at="2018-09-20T08:30:17Z">
+      <class name="Select.Gridcls">
+        <test-method status="PASS" signature="Browser(java.lang.String)[pri:0, instance:Select.Gridcls@26be92ad]" name="Browser" duration-ms="37681" started-at="2018-09-20T08:29:40Z" finished-at="2018-09-20T08:30:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+      </class> <!-- Select.Gridcls -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="13050" started-at="2018-09-20T08:30:17Z" finished-at="2018-09-20T08:30:30Z">
+      <class name="Select.Gridcls">
+        <test-method status="PASS" signature="Browser(java.lang.String)[pri:0, instance:Select.Gridcls@1794d431]" name="Browser" duration-ms="13029" started-at="2018-09-20T08:30:17Z" finished-at="2018-09-20T08:30:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser -->
+      </class> <!-- Select.Gridcls -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
